@@ -1,0 +1,5 @@
+# 실행 결과 로그 (로컬에서만 유지)
+logs/*.json
+
+# Claude Code 로컬 설정
+.claude/settings.local.json
