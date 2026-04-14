@@ -2,7 +2,7 @@
 
 Claude Code를 에이전트로 사용하는 작업 실행 템플릿입니다.
 
-```
+```text
 나(사용자)             → 시나리오 작성  →  scenarios/
 Claude Code(에이전트)  → 시나리오 실행
 → 결과                 → 로그 저장     →  logs/
@@ -19,7 +19,7 @@ API 키 없음. 설치 없음. Claude.ai Pro 구독만 있으면 됩니다.
 
 ## 폴더 구조
 
-```
+```text
 Harness_sample/
 ├── scenarios/           ← 에이전트 작업 정의 (여기만 수정)
 │   └── example.yaml
@@ -49,7 +49,7 @@ success_criteria:
 
 Claude Code 채팅창에서 이렇게 말하면 됩니다:
 
-```
+```text
 scenarios/내_파일.yaml 시나리오를 실행해줘
 ```
 
