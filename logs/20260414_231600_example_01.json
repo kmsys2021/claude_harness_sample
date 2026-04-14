@@ -1,0 +1,7 @@
+{
+  "scenario_id": "example_01",
+  "timestamp": "2026-04-14T23:16:00.583398",
+  "success": true,
+  "result": "폴더 구조 분석 완료. HOW_TO_USE.md(안내문서), logger.py(로그 저장 헬퍼), scenarios/example.yaml(예시 시나리오), logs/.gitkeep(폴더 추적용 빈 파일) — 4개 파일 전부 역할 요약.",
+  "notes": ""
+}
